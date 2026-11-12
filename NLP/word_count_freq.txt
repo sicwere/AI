@@ -1,0 +1,15 @@
+The 10 most common words are:
+
+      Word  Count  Frequency (Relative)
+0        the     30              0.085960
+1         of     23              0.065903
+2        and     23              0.065903
+3   national     17              0.048711
+4  academies     14              0.040115
+5   sciences     10              0.028653
+6         on      9              0.025788
+7   children      9              0.025788
+8   families      9              0.025788
+9      press      8              0.022923
+
+The 3 most common words are common English function words. Most of the rest deal with the subject matter of the article.
