@@ -1,2 +1,2 @@
 # AI
-Repository for AI projects for Northwestern University
+Repository for AI projects coursework.
